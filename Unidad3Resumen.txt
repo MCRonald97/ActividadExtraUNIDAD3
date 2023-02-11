@@ -1,0 +1,17 @@
+UNIDAD 3 RESUMEN DE LOS TEMAS
+
+Un controlador de versiones es un software que permite gestionar los cambios en el código fuente y otros archivos de un proyecto. Permite controlar quién hace cambios, cuándo se hicieron, qué se cambió y por qué. Esto ayuda a mantener una versión controlada y organizada de los archivos de un proyecto.
+
+GIT es un sistema de control de versiones distribuido de código abierto que permite a los desarrolladores colaborar en proyectos de software de manera eficiente. Git realiza un seguimiento de los cambios realizados en el código fuente y permite a los desarrolladores trabajar juntos en diferentes versiones del código.
+
+GitHub es una plataforma web que proporciona servicios de alojamiento de repositorios Git y herramientas de colaboración para el desarrollo de software. Permite a los desarrolladores alojar, revisar y colaborar en proyectos de software, además de proporcionar herramientas para la gestión de problemas y seguimiento de errores. GitHub se ha convertido en una herramienta popular para el desarrollo colaborativo de software de código abierto.
+
+
+UNIDAD 3 RESUMEN DE LOS TEMAS APLICADOS EN LA VIDA
+
+Los controladores de versiones son herramientas muy útiles en la vida diaria para cualquier persona que trabaje en proyectos de software, diseño, escritura o cualquier otra actividad que implique la creación y gestión de archivos digitales. Con un controlador de versiones, se puede mantener un registro completo de los cambios realizados en los archivos y revertir a versiones anteriores en caso de ser necesario.
+
+Git se utiliza en la vida diaria por muchos desarrolladores de software y equipos de trabajo en todo el mundo. Es muy útil para gestionar el código fuente de un proyecto, permitiendo que múltiples desarrolladores trabajen en diferentes ramas del código al mismo tiempo, mientras mantiene un registro completo de los cambios y versiones anteriores. Git también es útil para la gestión de proyectos personales, como blogs, libros electrónicos, y otros proyectos creativos.
+
+GitHub es una plataforma en línea muy popular y utilizada para el desarrollo colaborativo de software. Se utiliza para alojar repositorios de Git y proporciona herramientas para la gestión de proyectos y la colaboración. En la vida diaria, muchas personas utilizan GitHub para compartir código, colaborar en proyectos de software, y gestionar y solucionar problemas. También se utiliza para la creación y gestión de sitios web y para compartir y acceder a recursos educativos y de aprendizaje.
+
